@@ -1,10 +1,6 @@
 
 Biografia Rafael Daniel Farfan Guzman
-<<<<<<< HEAD
 (historia biografica de daniel)
-=======
-(historia Biografica de alguien)
->>>>>>> cabecera
 
 Hola mi nombre es Rafael Daniel, 
 Tengo35 años y naci en venezuela
