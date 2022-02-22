@@ -9,7 +9,7 @@ estudio programacion para emprender, en este campo laboral.
 Vamos con todo papi. Bueno bueno. vamos si.asaasas
 bueno pues, tu eres lo maximo del mundo mundial.
 
-
+Esta es una prueba para que se vea que desde el repositorio remoto se puede editar.
 Sucribete y dale Like like like
 
 Vamos a organizar este commit.
